@@ -1,0 +1,22 @@
+
+.box {
+    margin: auto; 
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.button{
+    height:35px;
+    width: 205px;
+    margin: 5px;
+}
+.typecolor{
+  
+    margin-top: 200px;
+}
+
+.colorchangebox{
+    margin-bottom: 50px;
+    font-size: 40px;
+}
